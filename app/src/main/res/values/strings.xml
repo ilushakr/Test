@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="gallery_is_empty">Gallery is empty!</string>
+    <string name="photos">Photos</string>
+    <string name="users">Users</string>
+    <string name="error_with_data_loading">error with data loading</string>
+    <string name="refresh_data">refresh data</string>
+</resources>
